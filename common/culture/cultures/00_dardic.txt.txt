@@ -1,0 +1,59 @@
+kashmiri = { # Dardic
+	color = kashmiri
+	
+	ethos = ethos_spiritual
+	heritage = heritage_dardic
+	language = language_kashmiri
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_himalayan_settlers
+		tradition_poetry
+		tradition_equal_inheritance
+		tradition_hillyhomes
+	}
+	
+	name_list = name_list_kashmiri
+	
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	ethnicities = {
+	    25 = central_dardic
+		25 = south_dardic
+		10 = north_dardic
+		5 = plains_pamirid
+		5 = central_pamirid
+		5 = east_pamirid
+		5 = indian
+	}
+}
+shina = { # Dardic
+	color = shina
+	
+	ethos = ethos_communal
+	heritage = heritage_dardic
+	language = language_shina
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_himalayan_settlers
+		tradition_diasporic
+		tradition_hillyhomes
+	}
+	
+	name_list = name_list_kashmiri
+	
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	ethnicities = {
+	    15 = plains_pamirid
+	    10 = central_dardic
+		5 = south_dardic
+		15 = north_dardic
+		10 = plains_pamirid
+		5 = central_pamirid
+		5 = east_pamirid
+	}
+}

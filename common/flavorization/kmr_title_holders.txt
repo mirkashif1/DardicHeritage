@@ -1,0 +1,76 @@
+﻿duke_feudal_male_kashmiri = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 27
+	governments = { tribal_government feudal_government administrative_government }
+	name_lists = { name_list_kashmiri }
+	culture
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+king_feudal_male_kashmiri = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 47
+	governments = { tribal_government feudal_government administrative_government }
+	name_lists = { name_list_kashmiri }
+	
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+king_feudal_female_kashmiri = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 47
+	governments = {  tribal_government feudal_government administrative_government }
+	name_lists = { name_list_kashmiri }
+	
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+kingdom_feudal_kashmiri = {
+	type = title
+	tier = kingdom
+	priority = 47
+	governments = { tribal_government feudal_government administrative_government }
+	name_lists = { name_list_kashmiri }
+	
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+emperor_feudal_male_kashmiri = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 107
+	governments = { tribal_government feudal_government administrative_government }
+	name_lists = { name_list_kashmiri }
+	
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+emperor_feudal_female_kashmiri = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 107
+	governments = { tribal_government feudal_government administrative_government }
+	name_lists = { name_list_kashmiri }
+	
+	flavourization_rules = {
+		top_liege = no
+	}
+}
