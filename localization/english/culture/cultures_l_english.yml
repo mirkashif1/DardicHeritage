@@ -742,6 +742,13 @@
  shina:0 "Shina"
  shina_prefix:0 "Shin"
  shina_collective_noun:0 "Shinas"
+ kalasha:0 "Kalash"
+ kalasha_prefix:0 "Kalash"
+ kalasha_collective_noun:0 "Kalashas"
+ #
+ jutish:0 "Jutish"
+ jutish_prefix:0 "Jute"
+ jutish_collective_noun:0 "Jutes"
  #FP3 additions
  brahui: "Brahui"
  brahui_prefix: "Brahui"

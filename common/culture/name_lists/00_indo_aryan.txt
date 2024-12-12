@@ -2007,6 +2007,7 @@ name_list_kashmiri = {
 		"dynn_Vupdev"
 		{ "dynn_Dhar" }
 		{ "dynn_Gul" }
+		{"dynn_Ahangar"}
 		{ "dynn_Shaikh" }
 		{ "dynn_Kichul" }
 		{ "dynn_Sopuer" }
@@ -2034,11 +2035,13 @@ name_list_kashmiri = {
 	}
 	
 	dynasty_names = {
-		"dynn_Karkot"
-		"dynn_Utpal"
-		"dynn_Lohara"
-		"dynn_Maqpon"
-		"dynn_Vupdev"
+	    { "dynn_Ahangar" }
+        { "dynn_Karkot" }
+		{ "dynn_Utpal" }
+		{ "dynn_Lohara" }
+		{ "dynn_Maqpon" }
+		{ "dynn_Vupdev"}
+		{ "dynn_Vupdev"}
 		{ "dynn_Dhar" }
 		{ "dynn_Gul" }
 		{ "dynn_Shaikh" }
@@ -2071,10 +2074,10 @@ name_list_kashmiri = {
 
 	male_names = {
 		Abhimanyu Aditya Amit Nondhvardan Anant Anil Arun Vo'ntyvarman Bansi Bhimgupt Birbal Braz Briz
-		Chakrvarman Chandrkanta Chandrpida Charanpal Damodar Din'nath Dipak Eshin Gangaram Gautam Giridhar
-		Gotum Gul Gulhan Hariraz Hars Jagdev Jassak Jaysimh Jivan Kailash Kalas Kanak Kanhaiya Karan Kashyap Khayaal Khushnaseeb
+		Chakrvarman Chandrkanta Chandrpida Charanpal Damodar Din'nath Dipak Eshin Gashur Gangaram Gautam Giridhar
+		Gotum Gul Gulzar Gulhan Hariraz Hars Jagdev Jassak Jaysimh Jivan Kailash Kalas Kanak Kanhaiya Karan Kashyap Khayaal Khushnaseeb
 		Kisan Kishan Krishan Ksemagupt Kshemendr Kuldip Lakshman Laksmandev Lalit Lalitaditya Madan Manohar Maruti Mohan Moti
-		Motilal Muktapid Mustafa Nanda Nandigupta Narain Naraindas Nidhi Niraj Pamposh Paramanuk Pawan Phalung Pran Pratapaditya
+		Motilal Muktapid Mustafa Nanda Nandigupta Narain Naraindas Nidhi Niraj Posh Pamposh Paramanuk Pawan Phalung Pran Pratapaditya
 		Purushottam Pushkar Radda Rahim Rahul Razdev Rajinder Rajiv Ramdev Ramchandr Rameshwar Ratnakar Ravinder Rohit Salhan Samgramade
 		Samgramaraz Sandip Sankaravarman Satish Satyen Shakti Shambhu Shuhul Siddharth Sidhesh Simhadev Simharaja Somnath Srivar Subhash Sudhir
 		Suhdev Suresh Swaroop Tribhuvanagupta Triloki Trilokanath Trilokinath Tunga Uccala Udayaraja Upendr Utkarsa Utpal
@@ -2082,7 +2085,7 @@ name_list_kashmiri = {
 	}
 	female_names = {
 		Aarati Aarti Aasa Aasha Abha Ambikaputrika Amritlekha Anangalekha Anjana Asamati Asha Bappika Bappatadevi Bhinna Bhuvanamati Bijala Bijja
-		Bimba Candala Candri Chakramardika Chandravati Chandri Chither Devalekha Didda Durga Ganga Girija Girja Gunadevi Gunalekha Hamsi Hiposh Indra
+		Bimba Candala Candri Chakramardika Chandravati Chandri Chither Druna Devalekha Didda Durga Ganga Girija Girja Gunadevi Gunalekha Hamsi Hiposh Indra
 		Indradevi Iravati Ishika Ishnadevi Jaishri Jaya Jayadevi Jayalakshmi Jayamati Kalhanika Kalphana Kalyana Kamala Kamaladevi Kamalavati Kamalesh
 		Kamla Kamlesh Kanjarika Kapila Kashi Kavita Kavya Kaya Kishori Kongposh Kota Kshma Kumudalekha Lalita Lothita Maghavati Mala Manjarika Manju
 		Meghavali Menila Mrigavati Nagalata Nagalekha Nanda Narendraprabha Nirupama Nonika Omadevi Padmalekha Padmasri Padmavati Parakasa Priti Punim

@@ -1,4 +1,4 @@
-central_dardic = {
+﻿central_dardic = {
 	template = "ethnicity_template"
 	using = "kashmiri"
 	eye_color = {

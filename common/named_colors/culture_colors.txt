@@ -32,6 +32,7 @@ colors = {
 	sinhala = { 1.0 0.3 0.3 }
 	kashmiri = { 0.6 0.4 0.3 }
 	shina = { 0.55 0.35 0.4 }
+	kalasha = { 0.5 0.2 0.3 }
 	tamil = { 1.0 0.7 0.2 }
 	telugu = { 0.8 0.8 0.0 }
 	kannada = { 0.8 0.6 0.0 }

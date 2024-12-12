@@ -6,7 +6,7 @@
 	priority = 27
 	governments = { tribal_government feudal_government administrative_government }
 	name_lists = { name_list_kashmiri }
-	culture
+	cultures = { kashmiri }
 	flavourization_rules = {
 		top_liege = no
 	}
@@ -19,6 +19,7 @@ king_feudal_male_kashmiri = {
 	priority = 47
 	governments = { tribal_government feudal_government administrative_government }
 	name_lists = { name_list_kashmiri }
+	cultures = { kashmiri }
 	
 	flavourization_rules = {
 		top_liege = no
@@ -32,7 +33,7 @@ king_feudal_female_kashmiri = {
 	priority = 47
 	governments = {  tribal_government feudal_government administrative_government }
 	name_lists = { name_list_kashmiri }
-	
+	cultures = { kashmiri }
 	flavourization_rules = {
 		top_liege = no
 	}
@@ -43,7 +44,7 @@ kingdom_feudal_kashmiri = {
 	priority = 47
 	governments = { tribal_government feudal_government administrative_government }
 	name_lists = { name_list_kashmiri }
-	
+	cultures = { kashmiri }
 	flavourization_rules = {
 		top_liege = no
 	}
@@ -56,7 +57,7 @@ emperor_feudal_male_kashmiri = {
 	priority = 107
 	governments = { tribal_government feudal_government administrative_government }
 	name_lists = { name_list_kashmiri }
-	
+	cultures = { kashmiri }
 	flavourization_rules = {
 		top_liege = no
 	}
@@ -69,7 +70,7 @@ emperor_feudal_female_kashmiri = {
 	priority = 107
 	governments = { tribal_government feudal_government administrative_government }
 	name_lists = { name_list_kashmiri }
-	
+	cultures = { kashmiri }
 	flavourization_rules = {
 		top_liege = no
 	}

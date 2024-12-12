@@ -1,4 +1,4 @@
-kashmiri = { # Dardic
+﻿kashmiri = { # Dardic
 	color = kashmiri
 	
 	ethos = ethos_spiritual
@@ -55,5 +55,33 @@ shina = { # Dardic
 		10 = plains_pamirid
 		5 = central_pamirid
 		5 = east_pamirid
+	}
+}
+kalasha = { # Dardic
+	color = kalasha
+	
+	ethos = ethos_spiritual
+	heritage = heritage_dardic
+	language = language_kalasha
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_himalayan_settlers
+		tradition_equal_inheritance
+		tradition_diasporic
+	}
+	
+	name_list = name_list_kashmiri
+	
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	ethnicities = {
+	    50 = north_dardic
+		10 = caucasian_northern_dark_hair
+		10 = central_dardic
+		10 = plains_pamirid
+		5 = south_dardic
+		
 	}
 }
