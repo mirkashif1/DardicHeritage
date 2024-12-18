@@ -1,4 +1,9 @@
 # DardicHeritage
- Lil Mod that adds the Infamous Dardistan and some other stuff...
-#1 Added The decision to proclaim The Kingdom Of Dardistan,
-#1 Added custom ethnicities for Dardic
+  Lil Mod That adds The Infamous Dardistan
+### **A CK3 Mod**
+
+This mod adds the **Kingdom of Dardistan** to Crusader Kings III
+
+## **Features:**  
+1. **Added a decision** To proclaim the **Kingdom of Dardistan**.  
+2. **Added custom ethnicities** for **Dardic cultures**.
