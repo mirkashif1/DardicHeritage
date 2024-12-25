@@ -532,6 +532,7 @@ form_dardistan_decision = {
 	is_valid = {
 		has_title = title:d_kasmira
 		has_title = title:d_pamir
+		has_title = title:d_ladakh
 		completely_controls = title:d_ladakh
 		completely_controls = title:d_zanskar
 		completely_controls = title:d_baltiyul
